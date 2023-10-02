@@ -32,7 +32,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 0.5rem 2%;
+    padding: 0.8rem 2%;
     background-color: var(--second-bg-color);
     display: flex;
     justify-content: space-between;
@@ -83,6 +83,8 @@ path.link {
   stroke-width: 1px;
 }
 
+
+
 .footer{
   display: flex;
   justify-content:center;
@@ -92,7 +94,14 @@ path.link {
   background: var(--second-bg-color);
 }
 
+i{
+  color: var(--text-color);
+}
+
 .footer-text p{
   font-size: 1.6rem;
   color: var(--text-color);
+  display: flex;
+  justify-content:center;
+  align-items: center;
 }
