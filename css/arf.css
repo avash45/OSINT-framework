@@ -1,20 +1,56 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #ffffff;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
+  --bg-color: #1f242d;
+  --second-bg-color: #192e55;
+  --text-color: #fff;
+  --main-color: #0ef;
 }
 
-#body {
-  margin: 0 auto;
-  position: relative;
+
+  #header {
+    font-size: 40px;
+    font-weight: bold;
+    top: 20px;
+    text-align: center;
+    color: var(--second-bg-color);
+  }
+
+  .header{
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.5rem 2%;
+    background-color: var(--second-bg-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
 }
 
-#header {
-  font-size: 40px;
-  font-weight: bold;
-  top: 20px;
-  text-align: center;
+
+.logo{
+    cursor: default;
+    color: var(--text-color);
+    font-size: 2.5rem;
+    font-weight : 700;
 }
+
+  title{
+    color: var(--text-color);
+  }
 
 .legend {
   position: absolute;
@@ -26,13 +62,13 @@ body {
 }
 
 .node {
-  cursor: pointer;
+  cursor: pointer; 
 }
 
 .node circle {
   cursor: pointer;
   fill: #fff;
-  stroke: steelblue;
+  stroke: rgb(23, 76, 119);
   stroke-width: 1.5px;
 }
 
@@ -45,4 +81,18 @@ path.link {
   fill: none;
   stroke: #ccc;
   stroke-width: 1px;
+}
+
+.footer{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0.5rem 9%;
+  background: var(--second-bg-color);
+}
+
+.footer-text p{
+  font-size: 1.6rem;
+  color: var(--text-color);
 }

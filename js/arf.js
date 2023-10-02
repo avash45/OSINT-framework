@@ -2,7 +2,7 @@ var margin = [20, 120, 20, 140],
     width = 1280 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
     i = 0,
-    duration = 1250,
+    duration = 1200,
     root;
 
 var tree = d3.layout.tree()
@@ -29,13 +29,6 @@ d3.json("arf.json", function(json) {
       d.children = null;
     }
   }
-
-/*  function toggleAll(d) {
-    if (d.children) {
-      d.children.forEach(toggleAll);
-      toggle(d);
-    }
-  } */
   root.children.forEach(collapse);
   update(root);
 });
