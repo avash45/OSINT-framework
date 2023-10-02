@@ -8,7 +8,8 @@
               "name": "Instadp.io",
               "type": "url",
               "url": "https://instadp.io/download-profile-picture/ "
-            },        {
+            },
+            {
               "name": "IGram",
               "type": "url",
               "url": "https://igram.world/"
@@ -29,19 +30,59 @@
           "type": "folder"
         },
         {
-          "name": "Instagram stories download",
-          "type": "url",
-          "url": "https://www.instafollowers.co/download-instagram-stories"
+          "children": [
+            {
+              "name": "InstaFollowers",
+              "type": "url",
+              "url": "https://www.instafollowers.co/download-instagram-stories"
+            }
+          ],
+          "name": "Stories Download",
+          "type": "folder"
         },
         {
-          "name": "Instagram downloader extension",
-          "type": "url",
-          "url": "https://downloader-for-ig.com/"
+          "children": [
+            {
+              "name": "Downloader for IG",
+              "type": "url",
+              "url": "https://downloader-for-ig.com/"
+            }
+          ],
+          "name": "Extensions",
+          "type": "folder"
+        },
+
+        {
+          "children": [
+            {
+              "name": "Dumpor",
+              "type": "url",
+              "url": "dumpor.com"
+            }
+          ],
+          "name": "View profile without login",
+          "type": "folder"
         },
         {
-          "name": "Instagram without login",
-          "type": "url",
-          "url": "dumpor.com"
+          "children": [
+            {
+              "name": "Inflact",
+              "type": "url",
+              "url": "https://inflact.com/tools/profile-analyzer/"
+            },
+            {
+              "name": "Analisa",
+              "type": "url",
+              "url": "https://analisa.io/profile/lt_gensatishdua"
+            },
+            {
+              "name": "Toolzu",
+              "type": "url",
+              "url": "https://toolzu.com/profile-analyzer/instagram/"
+            }
+          ],
+          "name": "Profile Analyzer",
+          "type": "folder"
         },
         {
           "name": "Inteltechniques",
