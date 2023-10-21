@@ -5,6 +5,28 @@
         {
           "children": [
             {
+              "name": "site:instagram.com \"Satish Dua\"",
+              "type": "url",
+              "url": "https://www.google.com/search?client=firefox-b-e&q=site%3Ainstagram.com+%22Satish+Dua%22"
+            },
+            {
+              "name": "site:instagram.com \"Satish Dua\" OR \"Lt Gen Satish\"  ",
+              "type": "url",
+              "url": "https://www.google.com/search?q=site%3Ainstagram.com+%22Satish+Dua%22+OR+%22Lt+Gen+Satish%22&client=firefox-b-e&sca_esv=572530057&sxsrf=AM9HkKlPQZ2xeCs-4HUXQqpVdEyCiX-lNA%3A1697027873887&ei=IZcmZbrONcjWseMPrYqGiAw&ved=0ahUKEwj64uK8ge6BAxVIa2wGHS2FAcEQ4dUDCBA&uact=5&oq=site%3Ainstagram.com+%22Satish+Dua%22+OR+%22Lt+Gen+Satish%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiMnNpdGU6aW5zdGFncmFtLmNvbSAiU2F0aXNoIER1YSIgT1IgIkx0IEdlbiBTYXRpc2giSORZULIBWJhScAF4AJABAJgBwAWgAesXqgEKMC4xNy4xLjYtMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp"
+            },
+            {
+              "name": "site:instagram.com \"@lt_gensatishdua\""  ,
+              "type": "url",
+              "url": "https://www.google.com/search?q=site%3Ainstagram.com+%22%40lt_gensatishdua%22&client=firefox-b-e&sca_esv=572530057&sxsrf=AM9HkKlKL5SehF9TgqouHTdoh-2Ci_xC9Q%3A1697027939269&ei=Y5cmZc34D4-WseMPzOK44Ak&ved=0ahUKEwiNtvnbge6BAxUPS2wGHUwxDpwQ4dUDCBA&uact=5&oq=site%3Ainstagram.com+%22%40lt_gensatishdua%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXNpdGU6aW5zdGFncmFtLmNvbSAiQGx0X2dlbnNhdGlzaGR1YSJIwZwJUIjCCFj4lglwAngAkAEAmAG0A6ABqh6qAQo2LjIzLjEuMC4xuAEDyAEA-AEB-AEC4gMEGAEgQYgGAQ&sclient=gws-wiz-serp#ip=1"
+            }
+
+          ],
+          "name": "Google dorking",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
               "name": "Instadp.io",
               "type": "url",
               "url": "https://instadp.io/download-profile-picture/ "
@@ -32,12 +54,12 @@
         {
           "children": [
             {
-              "name": "InstaFollowers",
+              "name": "IGram",
               "type": "url",
-              "url": "https://www.instafollowers.co/download-instagram-stories"
+              "url": "https://igram.world/"
             }
           ],
-          "name": "Stories Download",
+          "name": "Posts and Reels download",
           "type": "folder"
         },
         {
@@ -51,7 +73,39 @@
           "name": "Extensions",
           "type": "folder"
         },
-
+        {
+          "children": [
+            {
+              "name": "#satishdua",
+              "type": "url",
+              "url": "https://www.instagram.com/explore/tags/satishdua/"
+            }
+          ],
+          "name": "Hashtags",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "SaveInsta",
+              "type": "url",
+              "url": "https://saveinsta.app/en/instagram-story-download"
+            }
+          ],
+          "name": "Stories Download",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "🏷️satishdua",
+              "type": "url",
+              "url": "https://www.instagram.com/lt_gensatishdua/tagged/"
+            }
+          ],
+          "name": "Tagged",
+          "type": "folder"
+        },
         {
           "children": [
             {
@@ -92,8 +146,180 @@
       ],
       "name": "Instagram OSINT",
       "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Fast people search",
+              "type": "url",
+              "url": "https://www.fastpeoplesearch.com/name/michael-bazzel"
+            },
+            {
+              "name": "CyberBackground Checks",
+              "type": "url",
+              "url": "https://www.cyberbackgroundchecks.com/detail/michael-j-bazzel/pidnxbbxxzgmgaxpagmxxpq"
+            },
+            {
+              "name": "Radaris",
+              "type": "url",
+              "url": "https://radaris.com/p/Michael/Bazzel/"
+            },
+            {
+              "name": "Spytox",
+              "type": "url",
+              "url": "https://www.spytox.com/michael-bazzell"
+            },
+            {
+              "name": "Search people free",
+              "type": "url",
+              "url": "https://www.searchpeoplefree.com/find/michael-bazzell"
+            },
+            {
+              "name": "That's Them",
+              "type": "url",
+              "url": "https://thatsthem.com/name/Michael-Bazzell"
+            },
+            {
+              "name": "Spokeo",
+              "type": "url",
+              "url": "https://www.spokeo.com/Michael-Bazzell?loaded=1"
+            },
+            {
+              "name": "ABC",
+              "type": "url",
+              "url": "https://www.advancedbackgroundchecks.com/names/michael-bazzel"
+            },
+            {
+              "name": "Yasni",
+              "type": "url",
+              "url": "http://www.yasni.com/michael/free+people+search?query=Michael&psi"
+            },
+            {
+              "name": "Zaba Search",
+              "type": "url",
+              "url": "https://www.zabasearch.com/people/michael+bazzell/"
+            },
+            {
+              "name": "People search now",
+              "type": "url",
+              "url": "https://www.peoplesearchnow.com/person/michael-bazzell"
+            },
+            {
+              "name": "WebMii",
+              "type": "url",
+              "url": "https://webmii.com/people?n=%22Michael%20Bazzell%22#gsc.tab=0&gsc.q=%22Michael%20Bazzell%22&gsc.sort=date"
+            },
+            {
+              "name": "Social Searcher",
+              "type": "url",
+              "url": "https://www.social-searcher.com/search-users/?q6=Michael+Bazzell"
+            },
+            {
+              "name": "Truth Finder",
+              "type": "url",
+              "url": "https://www.truthfinder.com/results/?firstName=Michael&lastName=Bazzell&state=ALL"
+            },
+            {
+              "name": "People By Name",
+              "type": "url",
+              "url": "http://www.peoplebyname.com/people/Bazzell/Michael/Elmore/AL"
+            },
+            {
+              "name": "WhitePaper",
+              "type": "url",
+              "url": "https://www.whitepages.com/name/Michael-Bazzell"
+            },
+            {
+              "name": "411.com",
+              "type": "url",
+              "url": "https://www.411.com/person-search/Michael-Bazzel"
+            },
+            {
+              "name": "ClusterMap",
+              "type": "url",
+              "url": "https://clustrmaps.com/persons/Michael-Bazzell"
+            },
+            {
+              "name": "Rocket Reach",
+              "type": "url",
+              "url": "https://www.google.com/search?client=firefox-b-e&q=site%3Arocketreach.co+%22michael+bazzell%22#ip=1"
+            },
+            {
+              "name": "USA Official",
+              "type": "url",
+              "url": "https://usa-official.com/Michael-Bazzell"
+            },
+            {
+              "name": "Addresses .com",
+              "type": "url",
+              "url": "https://www.addresses.com/people/michael-bazzell"
+            },
+            {
+              "name": "ID crawl",
+              "type": "url",
+              "url": "https://www.idcrawl.com/%20michael-bazzell"
+            },
+            {
+              "name": "Classmates",
+              "type": "url",
+              "url": "https://www.classmates.com/"
+            },
+            {
+              "name": "CenturyLink",
+              "type": "url",
+              "url": "https://www.centurylink.com/home/help/internet/test-your-internet-at-the-network-interface.html"
+            }
+            ,
+            {
+              "name": "Resumes",
+              "type": "url",
+              "url": "https://www.google.com/search?q=%22John+Smith%22+AND+%22CV%22+filetype%3Apdf&client=firefox-b-e&sca_esv=575171886&sxsrf=AM9HkKksUA26usBgBRY2AxatxuoenYWtPQ%3A1697801564297&ei=XGUyZcmzEZGfseMP1eqQ4AM&ved=0ahUKEwjJ0Y3Zw4SCAxWRT2wGHVU1BDwQ4dUDCBA&uact=5&oq=%22John+Smith%22+AND+%22CV%22+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiIiJKb2huIFNtaXRoIiBBTkQgIkNWIiBmaWxldHlwZTpwZGZI1xtQpgtYnxFwAXgAkAEAmAHpAaABygSqAQUwLjMuMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp"
+            }
+            ,
+            {
+              "name": "Indeed",
+              "type": "url",
+              "url": "https://resumes.indeed.com/search?q=Analyst&l=&rb=availability%3Anow%2Cjtid%3A2040%2Ccmpid%3A65320%2Cyoe%3A61-120"
+            }            ,
+            {
+              "name": "Ripoff Report",
+              "type": "url",
+              "url": "https://www.ripoffreport.com/reports/accenture-ltd-ohio-consulting/cleveland-ohio-/accenture-ltd-ohio-consulting-this-company-hired-outside-consults-for-information-and-co-639141"
+            }
+            ,
+            {
+              "name": "The Knot",
+              "type": "url",
+              "url": "https://www.theknot.com/registry/couplesearch"
+            }
+            ,
+            {
+              "name": "Find a Grave",
+              "type": "url",
+              "url": "https://www.findagrave.com/memorial/search?firstname=Michael&middlename=&lastname=Bazzell&birthyear=&birthyearfilter=&deathyear=&deathyearfilter=&location=&locationId=&memorialid=&mcid=&linkedToName=&datefilter=&orderby=r&plot="
+            }
+            ,
+            {
+              "name": "Classmates",
+              "type": "url",
+              "url": "https://www.classmates.com/"
+            }
+          ],
+          "name": "For US targets",
+          "type": "folder"
+        },
+        {
+          "name": "Inteltechniques",
+          "type": "url",
+          "url": "https://inteltechniques.com/tools/Name.html"
+        } 
+      ],
+      "name": "People Search Engines",
+      "type": "folder"
     }
   ],
-  "name": "OSINT Framework",
+  "name": "OSINT framework",
   "type": "folder"
 }
